@@ -18,9 +18,9 @@ Installation ⬇️:
 
 * git clone https://github.com/TEAMBCS/bcssetup.sh
 
-* bcssetup.sh
+* cd bcssetup.sh
 
-* pkg.sh
+* bash pkg.sh
 
 Tested On⬇️:
 * Termux
