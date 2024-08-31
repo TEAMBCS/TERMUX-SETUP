@@ -1,11 +1,10 @@
-# bcssetup.sh
 # bcssetup
 
 # ASSALAMUALIKUM
 * This Is A Free Working Tools For Cracking Old And New Facebook Account Like (2004 To Now)
 
 Features⬇️:
-* [1] File Cloning • [2] Old Id Cloning • [3] Random Clinic
+* [1] Termux Easily setup Tool
 
 Installation ⬇️:
 
@@ -15,6 +14,16 @@ Installation ⬇️:
 
 * pkg install git -y
 
-* cd && rm -rf TERMUX-SETUP
+* cd && rm -rf bcssetup.sh
 
-* git clone https://github.com/STLP-TEAM/TERMUX-SETUP
+* git clone https://github.com/TEAMBCS/bcssetup.sh
+
+* bcssetup.sh
+
+* pkg.sh
+
+Tested On⬇️:
+* Termux
+* Linux
+
+* Join Our Facebook Group ⬇️: https://facebook.com/groups/572787103428508/
