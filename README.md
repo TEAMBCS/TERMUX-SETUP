@@ -51,7 +51,10 @@ The tool will display a menu with available options for setup and configuration.
 3. Exit
 ```
 ## 📷 tool Screenshot 
-[pic](https://i.postimg.cc/pTcTyCBb/1000259125.jpg)
+
+<p align="center">
+  <img src="https://i.postimg.cc/nz2dmjst/1000259127.jpg" width="600"/>
+</p>
 
 ## 📧 Contact
 
