@@ -1,29 +1,56 @@
-# bcssetup
 
-# ASSALAMUALIKUM
-* This Is A Free Working Tools For Cracking Old And New Facebook Account Like (2004 To Now)
 
-Features⬇️:
-* [1] Termux Easily setup Tool
+![Logo](https://i.postimg.cc/pTcTyCBb/1000259125.jpg)
 
-Installation ⬇️:
+## 📌 Description
+**Termux Setup** is a simple yet powerful tool designed for Termux users.  
+It provides a quick setup environment, useful configurations, and essential packages for a smooth Termux experience.  
 
-* pkg update -y
+## 🚀 Features
+- Beautiful **banner menu** system  
+- Lightweight and easy to use in Termux  
+- Quick installation and setup  
 
-* pkg upgrade -y
+## 📥 Installation
+Run the following commands in Termux:
 
-* pkg install git -y
+```bash
+pkg update && pkg upgrade -y
+pkg install git python3 -y
+git clone https://github.com/TEAMBCS/TERMUX-SETUP.git
+cd TERMUX-SETUP
+python3 termux-setup.py
+````
 
-* cd && rm -rf bcssetup.sh
+## 🛠 Usage
 
-* git clone https://github.com/TEAMBCS/bcssetup.sh
+Start the tool with:
 
-* cd bcssetup.sh
+```bash
+python3 termux-setup.py
+```
 
-* bash pkg.sh
+The tool will display a menu with available options for setup and configuration.
 
-Tested On⬇️:
-* Termux
-* Linux
+## 📸 Example
 
-* Join Our Facebook Group ⬇️: https://facebook.com/groups/572787103428508/
+> Banner Menu Example:
+
+```
+[+] Termux Setup Banner
+-------------------------
+1. Option One
+2. Option Two
+3. Exit
+```
+
+## 📧 Contact
+
+For issues, suggestions, or contributions, feel free to reach out:
+**Developer:** \[Your Name]
+**Team:** \[Your Team Name]
+
+---
+
+⭐ If you like this project, don’t forget to **Star** it on GitHub!
+
