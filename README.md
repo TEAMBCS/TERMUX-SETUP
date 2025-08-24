@@ -1,6 +1,13 @@
 
+<p align="center">
+  <img src="https://i.postimg.cc/pTcTyCBb/1000259125.jpg" width="600"/>
+</p>
 
-![Logo](https://i.postimg.cc/pTcTyCBb/1000259125.jpg)
+<h1 align="center">🛡️ TERMUX SETUP Toolkit</h1>                                    <p align="center">
+  🇧🇩 Developed by <b>Shawon Islam Saim</b><br>
+  🚀 Powered by <b>BANGLADESH CYBER SQUAD</b><br>
+  📆 Year: 2025
+</p>
 
 ## 📌 Description
 **Termux Setup** is a simple yet powerful tool designed for Termux users.  
@@ -47,8 +54,8 @@ The tool will display a menu with available options for setup and configuration.
 ## 📧 Contact
 
 For issues, suggestions, or contributions, feel free to reach out:
-**Developer:** \[Your Name]
-**Team:** \[Your Team Name]
+**Developer:** \[Shawon Islam Saim]
+**Team:** \[BANGLADESH CYBER SQUAD]
 
 ---
 
