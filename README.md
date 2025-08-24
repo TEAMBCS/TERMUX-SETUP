@@ -26,6 +26,7 @@ pkg update && pkg upgrade -y
 pkg install git python3 -y
 git clone https://github.com/TEAMBCS/TERMUX-SETUP.git
 cd TERMUX-SETUP
+chmod +x *
 python3 termux-setup.py
 ````
 
